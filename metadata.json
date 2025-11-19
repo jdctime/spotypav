@@ -1,0 +1,5 @@
+{
+  "name": "FaceSpot Bridge",
+  "description": "Una herramienta inteligente para analizar videos de Facebook y distribuirlos automáticamente a Podcasts y Listas de Spotify utilizando IA.",
+  "requestFramePermissions": []
+}
